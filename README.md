@@ -13,5 +13,5 @@
 - 💬 Ask me about Social Media API intergration
 - 📫 How to reach me: https://onlyfans.com/danslinky
 - 😄 Pronouns: root
-- ⚡ Fun fact: I have three Blue Peter badges, and one you can click above.
--->
+- ⚡ Fun fact: I have two Blue Peter badge. Try clicking the one above
+
