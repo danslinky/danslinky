@@ -20,6 +20,6 @@ Don't click the badge...
 -->
 
 <!-- tuxminator -->
-[![Dan Slinky](https://rtfm.danslinky.co.uk/favicon.png)](https://www.youtube.com/embed/2fJZ71czfe0?si=qsX5VbjI69EZ_BqK](https://youtu.be/Loobd5gawL0?si=UwoycG-JCpdt2hqE)
+[![Dan Slinky](https://rtfm.danslinky.co.uk/favicon.png)](https://youtu.be/Loobd5gawL0?si=UwoycG-JCpdt2hqE)
 
 
