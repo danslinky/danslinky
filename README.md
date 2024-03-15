@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 Don't click the badge.
 
 [![Dan Slinky](https://rtfm.danslinky.co.uk/favicon.png)](https://www.youtube.com/embed/2fJZ71czfe0?si=qsX5VbjI69EZ_BqK)
+
+caption1 | caption2
+:-: | :-:
+<video src='https://customer-b92xqclgcg8pl8e1.cloudflarestream.com/4203e7c4118c5132b238c9da1228676b/downloads/default.mp4' width=180/> | <video src='https://customer-b92xqclgcg8pl8e1.cloudflarestream.com/4203e7c4118c5132b238c9da1228676b/downloads/default.mp4' width=180/>
