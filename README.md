@@ -6,8 +6,6 @@
 <!-- tuxminator -->
 [![Dan Slinky](https://rtfm.danslinky.co.uk/favicon.png)](https://youtu.be/Loobd5gawL0?si=UwoycG-JCpdt2hqE)
 
-**danslinky/danslinky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on MY GitHub profile.
-
 - 🔭 I’m currently working on [documentation](https://rtfm.danslinky.co.uk/)
 - 🌱 I’m currently learning Lua
 - 👯 I’m looking to collaborate on Cthulbernetes and Cloud Nativities 
