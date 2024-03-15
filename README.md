@@ -1,4 +1,10 @@
-### Hi there 👋
+<!-- Cthulbernetes -->
+<!--
+[![Dan Slinky](https://rtfm.danslinky.co.uk/favicon.png)](https://www.youtube.com/embed/2fJZ71czfe0?si=qsX5VbjI69EZ_BqK)
+-->
+
+<!-- tuxminator -->
+[![Dan Slinky](https://rtfm.danslinky.co.uk/favicon.png)](https://youtu.be/Loobd5gawL0?si=UwoycG-JCpdt2hqE)
 
 **danslinky/danslinky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on MY GitHub profile.
 
@@ -9,17 +15,5 @@
 - 💬 Ask me about Social Media API intergration
 - 📫 How to reach me: https://onlyfans.com/danslinky
 - 😄 Pronouns: root
-- ⚡ Fun fact: I have two Blue Peter badges. 
+- ⚡ Fun fact: I have three Blue Peter badges, and one you can click above.
 -->
-
-Don't click the badge...
-
-<!-- Cthulbernetes -->
-<!--
-[![Dan Slinky](https://rtfm.danslinky.co.uk/favicon.png)](https://www.youtube.com/embed/2fJZ71czfe0?si=qsX5VbjI69EZ_BqK)
--->
-
-<!-- tuxminator -->
-[![Dan Slinky](https://rtfm.danslinky.co.uk/favicon.png)](https://youtu.be/Loobd5gawL0?si=UwoycG-JCpdt2hqE)
-
-
