@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on Cthulbernetes and Cloud Nativities 
 - 🤔 I’m looking for help with imposter symdrome and my eating disorder
 - 💬 Ask me about Social Media API intergration
-- 📫 How to reach me: https://onlyfans.com/danslinky
+- 📫 How to reach me: [RTFM](https://rtfm.danslinky.co.uk/contact)
 - 😄 Pronouns: root
 - ⚡ Fun fact: I have two Blue Peter badges. Try clicking the one above.
 
