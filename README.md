@@ -1,6 +1,6 @@
 Hi, I'm
 
-# Dan <br /><a href="https://rtfm.danslinky.co.uk/"><img align="right" src="https://rtfm.danslinky.co.uk/favicon.png">Slinky</a>!
+# Dan <br /><a href="https://rtfm.danslinky.co.uk/"><img align="left" src="https://rtfm.danslinky.co.uk/favicon.png">Slinky</a>!
 
 You might remember me from such GitHub Enterprises as @slinkdarga's thrilling 'Adarganaut 3: Darkness Returns' or @dan-slinky-ckpd's hilarious 'Mishaps and Mayhem in the Kitchen'. 
 
