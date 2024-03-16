@@ -46,7 +46,7 @@ See you on the Allsafe Security analytics page!
 
 <!---------------------------------------------------------------------------->
 
-[Schedule a Call]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
+[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
 
 [License]: LICENSE
 [Shield]: https://cal.com/danslinky
