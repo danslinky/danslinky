@@ -1,6 +1,6 @@
 Hi, I'm
 
-# <img align="right" src="https://rtfm.danslinky.co.uk/favicon.png" "<code>"> Dan <a href="https://rtfm.danslinky.co.uk/">Slinky</a>!
+# <img align="right" src="https://rtfm.danslinky.co.uk/favicon.png" alt="javascript:alert('Cyber!')"> Dan <a href="https://rtfm.danslinky.co.uk/">Slinky</a>!
 
 You might remember me from such GitHub Enterprises as @slinkdarga's thrilling 'Adarganaut 3: Darkness Returns' or @dan-slinky-ckpd's hilarious 'Mishaps and Mayhem in the Kitchen'. 
 
