@@ -46,11 +46,11 @@ See you on the Allsafe Security analytics page!
 
 <!---------------------------------------------------------------------------->
 
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
+[Schedule a Call]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
 
 [License]: LICENSE
-[Shield]: Types/Shield.md
-[KBD]: Types/KBD.md
+[RTFM]: https://rtfm.danslinky.co.uk/
+[www]: https://www.danslinky.co.uk/
 [#]: #
 
 
