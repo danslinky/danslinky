@@ -1,17 +1,17 @@
-<!-- Cthulbernetes -->
-<!--
+Hi, I'm
+
+# Dan <a href="https://rtfm.danslinky.co.uk/"><img align="right" src="https://rtfm.danslinky.co.uk/favicon.png">Slinky</a>!
+
+You might remember me from such GitHub Enterprises as @slinkdarga's thrilling 'Adarganaut 3: Darkness Returns' or @dan-slinky-ckpd's hilarious 'Mishaps and Mayhem in the Kitchen'. 
+
+I've journeyed far and wide, stumbled into adventures you wouldn't believe, and now, I'm here to share a treasure trove of my escapades and insights with you dear reader.
+
+I'm here today to tell you about [my website](https://www.danslinky.co.uk/), and how you can [read the fantastic manual](https://rtfm.danslinky.co.uk/).
+
+But it's not just stories and laughter I bring to you today; it's a chance to dive into the world of Dan Slinky like never before. I invite you to explore my website, a gateway to adventures, laughs, and a comprehensive manual that's nothing short of fFantastic. It's not just a read; it's an experience, crafted from the countless escapades, the triumphs, the follies, and the sheer joy of living a life less ordinary."
+
+So, what are you waiting for? Come join me on this extraordinary journey. Discover the secrets, the stories, and maybe, just maybe, you'll find yourself inspired to embark on your own adventures. Remember, it's all just a click away.
+
+See you on the Google Analytics page!
+
 [![Dan Slinky](https://rtfm.danslinky.co.uk/favicon.png)](https://www.youtube.com/embed/2fJZ71czfe0?si=qsX5VbjI69EZ_BqK)
--->
-
-<!-- tuxminator -->
-[![Dan Slinky](https://rtfm.danslinky.co.uk/favicon.png)](https://youtu.be/Loobd5gawL0?si=UwoycG-JCpdt2hqE)
-
-- 🔭 I’m currently working on [documentation](https://rtfm.danslinky.co.uk/)
-- 🌱 I’m currently learning Lua
-- 👯 I’m looking to collaborate on Cthulbernetes and Cloud Nativities 
-- 🤔 I’m looking for help with imposter symdrome and my eating disorder
-- 💬 Ask me about Social Media API intergration
-- 📫 How to reach me: [RTFM](https://rtfm.danslinky.co.uk/contact)
-- 😄 Pronouns: root
-- ⚡ Fun fact: I have two Blue Peter badges. Try clicking the one above.
-
