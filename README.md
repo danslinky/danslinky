@@ -14,4 +14,4 @@ So, what are you waiting for? Come join me on this extraordinary journey. Discov
 
 See you on the Allsafe Security analytics page!
 
-<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=7149516&Days=1&Design=2" /></a>
+<a href="https://statuscake.danslinky.co.uk/" title="Everything is fine"><img src="https://app.statuscake.com/button/index.php?Track=7149516&Days=1&Design=2" /></a>
