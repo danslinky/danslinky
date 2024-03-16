@@ -1,12 +1,12 @@
 Hi, I'm
 
-# <img align="right" src="https://rtfm.danslinky.co.uk/favicon.png"> Dan <a href="https://rtfm.danslinky.co.uk/">Slinky</a>!
+# <img align="right" src="https://rtfm.danslinky.co.uk/favicon.png" "javascript:alert('Cyber!')"> Dan <a href="https://rtfm.danslinky.co.uk/">Slinky</a>!
 
 You might remember me from such GitHub Enterprises as @slinkdarga's thrilling 'Adarganaut 3: Darkness Returns' or @dan-slinky-ckpd's hilarious 'Mishaps and Mayhem in the Kitchen'. 
 
 I've journeyed far and wide, stumbled into adventures you wouldn't believe, and now, I'm here to share a treasure trove of my escapades and insights with you dear reader.
 
-I'm here today to tell you about [my website](https://www.danslinky.co.uk/), and how you can [read the fantastic manual](https://rtfm.danslinky.co.uk/).
+I'm here today to tell you about [my website](https://www.danslinky.co.uk/), and how you can [read the fantastic manual](https://rtfm.danslinky.co.uk/ "RTFM").
 
 But it's not just stories and laughter I bring to you today; it's a chance to dive into the world of Dan Slinky like never before. I invite you to explore my website, a gateway to adventures, laughs, and a comprehensive manual that's nothing short of fFantastic. It's not just a read; it's an experience, crafted from the countless escapades, the triumphs, the follies, and the sheer joy of living a life less ordinary."
 
@@ -14,4 +14,4 @@ So, what are you waiting for? Come join me on this extraordinary journey. Discov
 
 See you on the Google Analytics page!
 
-[![Dan Slinky](https://rtfm.danslinky.co.uk/favicon.png)](https://www.youtube.com/embed/2fJZ71czfe0?si=qsX5VbjI69EZ_BqK)
+[![Dan Slinky](https://rtfm.danslinky.co.uk/favicon.png)](https://www.youtube.com/embed/2fJZ71czfe0?si=qsX5VbjI69EZ_BqK "Click here to win $1,000,000")
