@@ -34,9 +34,9 @@ See you on the Allsafe Security analytics page!
 <br>
 <br>
 
-[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
+[<kbd> <br> Visit my website <br> </kbd>][KBD]
 
-[![Button Shield]][Shield]
+[![Schedudle a call]][Shield]
 
 </div>
 
@@ -49,7 +49,7 @@ See you on the Allsafe Security analytics page!
 [Schedule a Call]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
 
 [License]: LICENSE
-[Shield]: https://rtfm.danslinky.co.uk/
+[Shield]: https://cal.com/danslinky
 [KBD]: https://www.danslinky.co.uk/
 [#]: #
 
