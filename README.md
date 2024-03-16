@@ -49,8 +49,8 @@ See you on the Allsafe Security analytics page!
 [Schedule a Call]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
 
 [License]: LICENSE
-[RTFM]: https://rtfm.danslinky.co.uk/
-[www]: https://www.danslinky.co.uk/
+[Shield]: https://rtfm.danslinky.co.uk/
+[KBD]: https://www.danslinky.co.uk/
 [#]: #
 
 
