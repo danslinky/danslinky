@@ -1,6 +1,6 @@
 Hi, I'm
 
-# <img align="right" src="https://rtfm.danslinky.co.uk/favicon.png" alt="javascript:console.log('FOOBAR');"> Dan <a href="https://rtfm.danslinky.co.uk/">Slinky</a>!
+# <img align="right" src="https://rtfm.danslinky.co.uk/favicon.png"> Dan <a href="https://rtfm.danslinky.co.uk/">Slinky</a>!
 
 You might remember me from such GitHub Enterprises as @slinkdarga's thrilling 'Adarganaut 3: Darkness Returns' or @dan-slinky-ckpd's hilarious 'Mishaps and Mayhem in the Kitchen'. 
 
@@ -13,5 +13,3 @@ But it's not just stories and laughter I bring to you today; it's a chance to di
 So, what are you waiting for? Come join me on this extraordinary journey. Discover the secrets, the stories, and maybe, just maybe, you'll find yourself inspired to embark on your own adventures. Remember, it's all just a click away.
 
 See you on the Google Analytics page!
-
-[![Dan Slinky](https://rtfm.danslinky.co.uk/favicon.png)](https://www.youtube.com/embed/2fJZ71czfe0?si=qsX5VbjI69EZ_BqK "Click here to win $1,000,000")
