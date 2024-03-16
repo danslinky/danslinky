@@ -13,3 +13,5 @@ But it's not just stories and laughter I bring to you today; it's a chance to di
 So, what are you waiting for? Come join me on this extraordinary journey. Discover the secrets, the stories, and maybe, just maybe, you'll find yourself inspired to embark on your own adventures. Remember, it's all just a click away.
 
 See you on the Allsafe Security analytics page!
+
+<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=7149516&Days=1&Design=2" /></a>
