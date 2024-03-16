@@ -2,7 +2,7 @@ Hi, I'm
 
 # <img align="right" src="https://rtfm.danslinky.co.uk/favicon.png"> Dan <a rel=me href="https://social.treehouse.systems/@danslinky">Slinky</a>!
 
-You might remember me from such GitHub Enterprises as @slinkdarga's thrilling 'Adarganaut 3: Darkness Returns' or @dan-slinky-ckpd's hilarious 'Mishaps and Mayhem in the Kitchen'. 
+You might remember me from such GitHub Enterprises as [@slinkdarga](#)'s thrilling 'Adarganaut 3: Darkness Returns' or [@dan-slinky-ckpd](#)'s hilarious 'Mishaps and Mayhem in the Kitchen'. 
 
 I've journeyed far and wide, stumbled into adventures you wouldn't believe, and now, I'm here to share a treasure trove of my escapades and insights with you dear reader.
 
